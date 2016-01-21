@@ -1,0 +1,189 @@
+{
+  "results": [
+    {
+      "itemGroup": { "id": "" },
+      "modifiedTime": "long",
+      "code": "",
+      "cost": "long",
+      "hidden": false,
+      "unitName": "",
+      "priceType": "fixed",
+      "alternateName": "",
+      "isRevenue": false,
+      "modifierGroups": [
+      {
+        "maxAllowed": "int",
+        "minRequired": "int",
+        "name": "",
+        "alternateName": "",
+        "modifierIds": "",
+        "id": "",
+        "modifiers": [
+        {
+          "price": "long",
+          "name": "",
+          "modifierGroup": {
+            "id": ""
+          },
+          "alternateName": "",
+          "id": ""
+        }
+        ],
+        "items": [
+        {
+          "id": ""
+        }
+        ],
+        "showByDefault": false
+      }
+      ],
+      "tags": [
+      {
+        "printers": [
+        {
+          "id": ""
+        }
+        ],
+        "name": "",
+        "id": "",
+        "items": [
+        {
+          "id": ""
+        }
+        ]
+      }
+      ],
+      "taxRates": [
+      {
+        "isDefault": false,
+        "rate": "long",
+        "name": "",
+        "id": "",
+        "items": [
+        {
+          "id": ""
+        }
+        ]
+      }
+      ],
+      "itemStock": {
+        "item": {
+          "id": ""
+        },
+        "quantity": 0,
+        "stockCount": "long"
+      },
+      "price": "long",
+      "name": "Paint",
+      "id": "1",
+      "categories": [
+      {
+        "sortOrder": "int",
+        "name": "",
+        "id": "",
+        "items": [
+        {
+          "id": ""
+        }
+        ]
+      }
+      ],
+      "sku": "1234678324509",
+      "defaultTaxRates": false,
+      "stockCount": "long"
+    },
+
+    {
+      "itemGroup": { "id": "" },
+      "modifiedTime": "long",
+      "code": "",
+      "cost": "long",
+      "hidden": false,
+      "unitName": "",
+      "priceType": "fixed",
+      "alternateName": "",
+      "isRevenue": false,
+      "modifierGroups": [
+      {
+        "maxAllowed": "int",
+        "minRequired": "int",
+        "name": "",
+        "alternateName": "",
+        "modifierIds": "",
+        "id": "",
+        "modifiers": [
+        {
+          "price": "long",
+          "name": "",
+          "modifierGroup": {
+            "id": ""
+          },
+          "alternateName": "",
+          "id": ""
+        }
+        ],
+        "items": [
+        {
+          "id": ""
+        }
+        ],
+        "showByDefault": false
+      }
+      ],
+      "tags": [
+      {
+        "printers": [
+        {
+          "id": ""
+        }
+        ],
+        "name": "",
+        "id": "",
+        "items": [
+        {
+          "id": ""
+        }
+        ]
+      }
+      ],
+      "taxRates": [
+      {
+        "isDefault": false,
+        "rate": "long",
+        "name": "",
+        "id": "",
+        "items": [
+        {
+          "id": ""
+        }
+        ]
+      }
+      ],
+      "itemStock": {
+        "item": {
+          "id": ""
+        },
+        "quantity": 10,
+        "stockCount": "long"
+      },
+      "price": "long",
+      "name": "Brushes",
+      "id": "2",
+      "categories": [
+      {
+        "sortOrder": "int",
+        "name": "",
+        "id": "",
+        "items": [
+        {
+          "id": ""
+        }
+        ]
+      }
+      ],
+      "sku": "758934092",
+      "defaultTaxRates": false,
+      "stockCount": "long"
+    }
+  ]
+}
